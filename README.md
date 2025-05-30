@@ -1,5 +1,37 @@
-# 💫 About Me:
-<br>---<br><br>### 👋 About Me<br><br>Hi there! I'm **Aditya Prasad**, a Python enthusiast passionate about building intelligent, scalable, and impactful software solutions. My journey in software development is driven by curiosity and a commitment to continuous learning.<br><br>### 💻 What I Do<br><br>* 🐍 **Python Development**: I specialize in Python, crafting robust applications and tools that solve real-world problems.<br>* 🧠 **AI & Machine Learning**: I explore the realms of artificial intelligence, developing projects like the [Fraud\_Transaction\_Detection](https://github.com/yugamax/Fraud-Transaction-Detection) , [API\_Skin\_disease\_identifier](https://github.com/yugamax/API_Skin_disease_identifier) to leverage machine learning for practical applications.<br>* <br>### 🌱 Learning & Growth<br><br>I'm continually expanding my skill set, currently delving into:<br><br>* Advanced machine learning techniques and frameworks.<br>* Cloud computing and deploying scalable applications.<br>* Enhancing user experience through intuitive UI/UX design.<br><br>### 📫 Let's Connect<br><br>I'm always open to collaboration, discussions, or just a friendly chat about technology and innovation. Feel free to reach out:<br><br>* 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-prasad-b9b57827a)<br><br>---<br>
+
+---
+
+# 💫 About Me
+
+### 👋 Hi there!
+
+I'm **Aditya Prasad**, a Python enthusiast passionate about building intelligent, scalable, and impactful software solutions. My journey in software development is driven by curiosity and a commitment to continuous learning.
+
+---
+
+### 💻 What I Do
+
+* 🐍 **Python Development**: I specialize in Python, crafting robust applications and tools that solve real-world problems.
+* 🧠 **AI & Machine Learning**: I explore the realms of artificial intelligence, developing projects like [Fraud Transaction Detection](https://github.com/yugamax/Fraud-Transaction-Detection) and [API Skin Disease Identifier](https://github.com/yugamax/API_Skin_disease_identifier) to apply ML for practical and meaningful use cases.
+
+---
+
+### 🌱 Learning & Growth
+
+I'm continually expanding my skill set. Currently, I’m focused on:
+
+* Advanced machine learning techniques and frameworks
+* Cloud computing and deploying scalable applications
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to collaboration, discussions, or just a friendly chat about technology and innovation. Feel free to reach out:
+
+* 🌐 [LinkedIn – Aditya Prasad](https://www.linkedin.com/in/aditya-prasad-b9b57827a)
+
+---
 
 
 # 💻 Tech Stack:
