@@ -12,7 +12,7 @@ I'm **Aditya Prasad**, a Python enthusiast passionate about building intelligent
 ### 💻 What I Do
 
 * 🐍 **Python Development**: I specialize in Python, crafting robust applications and tools that solve real-world problems.
-* 🧠 **AI & Machine Learning**: I explore the realms of artificial intelligence, developing projects like [Fraud Transaction Detection](https://github.com/yugamax/Fraud-Transaction-Detection) and [API Skin Disease Identifier](https://github.com/yugamax/API_Skin_disease_identifier) to apply ML for practical and meaningful use cases.
+* 🧠 **AI & Machine Learning**: I explore the realms of artificial intelligence, developing projects like [ML Fraud Transaction Detection](https://github.com/yugamax/ML-Fraud-Transaction-Detection) and [API Skin Disease Identifier](https://github.com/yugamax/API_Skin_disease_identifier) to apply ML for practical and meaningful use cases.
 
 ---
 
