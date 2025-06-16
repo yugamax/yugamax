@@ -32,7 +32,7 @@ I'm always open to collaboration, discussions, or just a friendly chat about tec
 * 🌐 [LinkedIn – Aditya Prasad](https://www.linkedin.com/in/aditya-prasad-b9b57827a)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yugamax&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=yugamax&label=🕵&color=blue" alt="yugamax" />
 
 
 # 💻 Tech Stack:
