@@ -5,8 +5,7 @@
 
 ### 👋 Hi there!
 
-I'm **Aditya Prasad**, a Python enthusiast passionate about building intelligent, scalable, and impactful software solutions. My journey in software development is driven by curiosity and a commitment to continuous learning.
-
+I'm **Aditya Prasad**, a Python enthusiast passionate about building intelligent, scalable, and impactful software solutions. My journey in software development is driven by curiosity and a commitment to 
 ---
 
 ### 💻 What I Do
